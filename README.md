@@ -4,6 +4,6 @@
 
 # Halo 🐣
 
-Gw DannnMaru, dan gw gak tau mau ngapain :v
+Gw `DannnMaru`, dan gw gak tau mau ngapain :v
 
 <img src="assets/banner.png" width="100%" alt="Banner">
