@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/elaina.gif" width="50%" alt="Elaina">
+  <img src="assets/elaina.gif" width="25%" alt="Elaina">
 </p>
 
 # Halo 🐣
