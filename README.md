@@ -1,11 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/elaina.gif" width="50%" alt="Elaina">
+</p>
 
-<br clear="both">
+# Halo 🐣
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DannnMaru/DannnMaru/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DannnMaru/DannnMaru/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DannnMaru/DannnMaru/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+Gw DannnMaru, dan gw gak tau mau ngapain :v
 
-###
+<img src="assets/banner.png" width="100%" alt="Banner">
